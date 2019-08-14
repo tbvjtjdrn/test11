@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mariadb://172.168.0.10:3306/neutron
+    username: okestro
+    password: okestro2018
+    driver-class-name: org.mariadb.jdbc.Driver
